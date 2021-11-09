@@ -7,8 +7,8 @@ Save the Weifang_Plugin_3D_Spots.class in the plugins folder of your ImageJ inst
 
 USAGE
 
-Before using the plugin use Analyze->'Find Maxima..' on a Z-projection of each channel to determine suitable thresholds
-Select Weifang_Plugin_3D_Spots from the Plugins drop down menu, when prompted select file image file to be opened
-When the Bioformats menu appears only the split channels box should be selected
-Select the green and red channels from the drop down menu and enter your predetermined threshold values, click OK.
-The plugin will run, a text file 'filename_Results.txt' and a 2 image files will save in your image directory.
+1. Before using the plugin use Analyze->'Find Maxima..' on a Z-projection of each channel to determine suitable thresholds
+2. Select Weifang_Plugin_3D_Spots from the Plugins drop down menu, when prompted select file image file to be opened
+3. When the Bioformats menu appears only the split channels box should be selected
+4. Select the green and red channels from the drop down menu and enter your predetermined threshold values, click OK.
+5. The plugin will run, a text file 'filename_Results.txt' and a 2 image files will save in your image directory.
